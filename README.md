@@ -22,6 +22,8 @@ https://user-images.githubusercontent.com/48218009/121790219-6b19dc80-cbdd-11eb-
 # Web Café Vernet
 
 
+# DBD Slot Machine
+
 
 
 # 2D Submarines
