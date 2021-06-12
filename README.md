@@ -32,18 +32,10 @@ https://user-images.githubusercontent.com/48218009/121790219-6b19dc80-cbdd-11eb-
 https://user-images.githubusercontent.com/48218009/121790208-53daef00-cbdd-11eb-919f-c9b03623a852.mp4
 
 
-
 # Frogger Coronavirus
 
 
 https://user-images.githubusercontent.com/48218009/121790220-6d7c3680-cbdd-11eb-8b18-3baff527032b.mp4
-
-
-
-
-
-
-
 
 
 # 3D TempleRun
@@ -53,6 +45,8 @@ https://user-images.githubusercontent.com/48218009/121790224-766d0800-cbdd-11eb-
 
 # 2D Platform
 
+
+https://user-images.githubusercontent.com/48218009/121790313-6a357a80-cbde-11eb-95a5-e7c1cd3eba7b.mp4
 
 
 
