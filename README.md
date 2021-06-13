@@ -10,7 +10,7 @@ Estos son algunos de los prototipos y proyectos hechos durante las diferentes as
 Minijuego de cocina producido para un equipo de trabajo del grado de terapia ocupacional de la universidad de Vic. El equipo de terapia ofreció la idea i el tema que querian para un juego enfocado para personas que sufren TDAH, que desarrollamos durante una de las assignaturas del grado.
 El minijuego se basa en llevar la cocina de un restaurante, cocinando y construyendo las diferentes recetas con los alimentos i el orden con el que se piden, con el objectivo de desafiar i mejorar diversos aspectos de la atención del jugador.
 El diseño i el arte de los assets los llevó una compañera del equipo del proyecto, el resto del minijuego lo desarrollé individualmente.
-Hecho en **Unity**.
+Hecho en *Unity*.
 
 https://user-images.githubusercontent.com/48218009/121790221-710fbd80-cbdd-11eb-9c1e-11858d5317d0.mp4
 
