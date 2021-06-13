@@ -46,6 +46,10 @@ El sitio web fue realizado para un negocio local en un pueblo de Girona. Se ha h
 
 # DBD Slot Machine
 
+## Descripción
+
+Minijuego de Slot Machine hecho para un streamer.
+Es un minijuego que contiene todos los personajes y las habilidades del juego DBD y las randomiza. El minijuego te permite seleccionar los distintos personajes y habilidades dependiendo si los tienes o no disponibles en el juego. Este proyecto me lo pidió un streamer que queria una pequeña aplicacion para poder randomizar las habilidades que tenia que usar en cada partida para hacer mas interesante su contenido.
 
 
 # 2D Submarines
