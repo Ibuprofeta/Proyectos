@@ -77,6 +77,7 @@ https://user-images.githubusercontent.com/48218009/121790220-6d7c3680-cbdd-11eb-
 Prototipo de juego de scroll hecho durante el 1r año del grado
 El juego se basa en el famoso Temple Run para móbil, donde el objetivo es llegar lo mas lejos posible recogiendo monedas y power ups para conseguir mas puntuación.
 Hecho en *Unity*.
+
 https://user-images.githubusercontent.com/48218009/121790224-766d0800-cbdd-11eb-9613-11bbad2e7327.mp4
 
 
