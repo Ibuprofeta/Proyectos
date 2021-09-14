@@ -3,7 +3,7 @@
 Estos son algunos de los prototipos y proyectos hechos durante las diferentes asignaturas en la universidad, como también proyectos paralelos hechos para testear y como práctica de algunos de los softwares usados durante el grado. 
 
 
-# Restaurante Terapia Ocupacional
+# 1. Restaurante Terapia Ocupacional
 
 ## Descripción
 
@@ -14,14 +14,8 @@ Hecho en *Unity*.
 
 https://user-images.githubusercontent.com/48218009/121790221-710fbd80-cbdd-11eb-9c1e-11858d5317d0.mp4
  
- 
-<pre>
 
-
-
-
-</pre>
-# Memory World of Warcraft
+# 2. Memory World of Warcraft
 
 ## Descripción
 
