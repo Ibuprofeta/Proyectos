@@ -27,7 +27,7 @@ Hecho para *iOS (Swift, Xcode)*.
 https://user-images.githubusercontent.com/48218009/121790219-6b19dc80-cbdd-11eb-9e7a-b80760abc588.mp4
 
 
-# Web Café Vernet
+# 3. Web Café Vernet
 
 ## Descripción
 
@@ -47,7 +47,7 @@ El sitio web fue realizado para un negocio local en un pueblo de Girona. Se ha h
 
 
 
-# DBD Slot Machine
+# 4. DBD Slot Machine
 
 ## Descripción
 
@@ -61,7 +61,7 @@ https://user-images.githubusercontent.com/48218009/121803297-17d97580-cc41-11eb-
 
 
 
-# 2D Submarines
+# 5. 2D Submarines
 
 ## Descripción
 
@@ -75,7 +75,7 @@ https://user-images.githubusercontent.com/48218009/121790208-53daef00-cbdd-11eb-
 
 
 
-# Frogger Coronavirus
+# 6. Frogger Coronavirus
 
 ## Descripción
 Juego Single Screen hecho durante el 2n año del grado.
@@ -89,7 +89,7 @@ https://user-images.githubusercontent.com/48218009/121790220-6d7c3680-cbdd-11eb-
 
 
 
-# 3D TempleRun
+# 7. 3D TempleRun
 
 ## Descripción
 
@@ -104,7 +104,7 @@ https://user-images.githubusercontent.com/48218009/121790224-766d0800-cbdd-11eb-
 
 
 
-# 2D Platform
+# 8. 2D Platform
 
 ## Descripción
 
