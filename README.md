@@ -18,8 +18,7 @@ https://user-images.githubusercontent.com/48218009/121790221-710fbd80-cbdd-11eb-
 # 2. Memory World of Warcraft
 
 ## Descripción
-
-Aplicación o juegoproducida para un proyecto de una assignatura de 3ro. 
+Aplicación de móbil producida para un proyecto de una assignatura de 3ro. 
 El juego se basa en el clásico Memory, juego de memoria donde dos jugadores tienen que descubrir parejas de elementos iguales, que permanecen ocultos. En cada tirada, se destapan dos piezas que se veulven a esconder si no hacen par. El objetivo del juego es destapar más parejas que el rival. También contiene un modo de un solo jugador el cual compite contra una IA muy bàsica.
 El tema del juego es del famoso MMO-RPG World of Warcraft.
 Hecho para *iOS (Swift, Xcode)*.
