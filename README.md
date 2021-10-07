@@ -61,60 +61,16 @@ https://user-images.githubusercontent.com/48218009/121803297-17d97580-cc41-11eb-
 
 
 
-# 5. 2D Submarines
+# 5. 
 
-## Descripción
 
-Juego de scroll lateral hecho durante el 1r año del grado.
-El juego se basa en controllar un submarino y evitar ser golpeado. Tambien se puede disparar para eliminar a los enemigos. La temática se basa en Submarine Titans, un RTS subaquático del año 2000. 
-Hecho en *Unity*.
- 
-https://user-images.githubusercontent.com/48218009/121790208-53daef00-cbdd-11eb-919f-c9b03623a852.mp4
+
+![Image_Render](https://user-images.githubusercontent.com/48218009/136337663-b04f1659-7b98-4f00-bcf1-afc227a85bb1.jpg)
 
 
 
 
 
-# 6. Frogger Coronavirus
-
-## Descripción
-Juego Single Screen hecho durante el 2n año del grado.
-El juego se basa en el clásico Frogger, donde el objetivo es dirigir las ranas a sus hogares, una por una, cruzando una calle concurrida y navegando por un río lleno de obstaculos.
-Este juego fue realizado los primeros meses de la pandemia y es por esto que la tematica esta inspirada en ello.
-Hecho en *p5js* y subido a un servidor web.
-
-https://user-images.githubusercontent.com/48218009/121790220-6d7c3680-cbdd-11eb-8b18-3baff527032b.mp4
-
-
-
-
-
-# 7. 3D TempleRun
-
-## Descripción
-
-Prototipo de juego de scroll hecho durante el 1r año del grado
-El juego se basa en el famoso Temple Run para móbil, donde el objetivo es llegar lo mas lejos posible recogiendo monedas y power ups para conseguir mas puntuación.
-Hecho en *Unity*.
-
-https://user-images.githubusercontent.com/48218009/121790224-766d0800-cbdd-11eb-9613-11bbad2e7327.mp4
-
-
-
-
-
-
-# 8. 2D Platform
-
-## Descripción
-
-Prototipo de juego de plataformas 2D hecho durante el 1r año del grado.
-Típico juego de plataformas con mecánica de disparo. Los assets fueron descargados de la libreria pública de Unity.
-Hecho en *Unity*.
-
-https://user-images.githubusercontent.com/48218009/121790313-6a357a80-cbde-11eb-95a5-e7c1cd3eba7b.mp4
-
-
-
+https://user-images.githubusercontent.com/48218009/136337699-f8a92f45-4c1c-4eb0-a2ac-81f8df436e5a.mp4
 
 
