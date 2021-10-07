@@ -61,17 +61,42 @@ https://user-images.githubusercontent.com/48218009/121803297-17d97580-cc41-11eb-
 
 
 
-# 5. Asian Scene 3D
+# 5. Escena Asiática 3D
 
-Escena 3D con animaciones para proyecto de universidad de 2do.
-Se tenia que diseñar y crear un entorno en 3D (se ha utilizado Blender) con sus animaciones. Por supuesto, también se tenían que diseñar, modelar y animar cada uno de los componentes añadidos en la escena. En mi caso, me inspiré en la temàtica asiàtica con elementos como los árboles típicos japoneses o las barcas de origen chino.
+Escena 3D con animaciones para proyecto de universidad en 2do curso.
+Se diseñó y creó un entorno en 3D (se ha utilizado Blender) con sus animaciones. Por supuesto, también se diseñó, modeló y animó cada uno de los componentes añadidos en la escena. En mi caso, me inspiré en la temàtica asiàtica con elementos como los árboles típicos japoneses o las barcas de origen chino.
 
-Render de la Imagen
+Render de la Imagen:
 
 ![AsianScene_ImageRender](https://user-images.githubusercontent.com/48218009/136337831-02616676-f243-463c-8d50-24b7aaa0a28c.jpg)
 
-Render del Video.
+Render del Video:
 
 https://user-images.githubusercontent.com/48218009/136337840-60adf2fc-de12-4935-bc89-36d80403b0b8.mp4
 
+
+
+# 6. Modelado 3D - Doctor de la Peste
+
+Modelado 3D de un personaje para proyecto de universidad en 2do curso.
+Se diseñó y creo un personaje inspirado en un doctor de la peste del siglo XVII. También se diseñaron y modelaron los distintos objectos usados en la escena.
+
+
+
+# 7. One Piece Web
+
+Página web HTML con interacción para proyecto de universidad en 3r curso.
+Sé diseñó y creo una página web con una mapa del famoso anime One Piece en el que el usuario puede explorar las diferentes islas que aparecen en la trama para conocer brevemente su historia y los personajes más importantes pertenecientes a ese arco.
+
+Imagen Mapa Principal:
+
+![Main_map](https://user-images.githubusercontent.com/48218009/136342051-d90f7de2-f1d9-46be-91a8-daeed19c5e07.PNG)
+
+Imagen Entrada Mapa:
+
+![map_entry](https://user-images.githubusercontent.com/48218009/136342081-48e2e397-331e-4a3c-8963-800a1b6e6f6d.PNG)
+
+Imagen Personajes:
+
+![map_characters](https://user-images.githubusercontent.com/48218009/136342097-fd7fc03b-a03c-46d6-bc8b-ed2eea95037d.PNG)
 
