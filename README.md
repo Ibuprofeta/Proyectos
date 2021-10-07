@@ -63,6 +63,8 @@ https://user-images.githubusercontent.com/48218009/121803297-17d97580-cc41-11eb-
 
 # 5. Escena Asiática 3D
 
+## Descripción
+
 Escena 3D con animaciones para proyecto de universidad en 2do curso.
 Se diseñó y creó un entorno en 3D (se ha utilizado Blender) con sus animaciones. Por supuesto, también se diseñó, modeló y animó cada uno de los componentes añadidos en la escena. En mi caso, me inspiré en la temàtica asiàtica con elementos como los árboles típicos japoneses o las barcas de origen chino.
 
@@ -78,12 +80,16 @@ https://user-images.githubusercontent.com/48218009/136337840-60adf2fc-de12-4935-
 
 # 6. Modelado 3D - Doctor de la Peste
 
+## Descripción
+
 Modelado 3D de un personaje para proyecto de universidad en 2do curso.
 Se diseñó y creo un personaje inspirado en un doctor de la peste del siglo XVII. También se diseñaron y modelaron los distintos objectos usados en la escena.
 
 
 
 # 7. One Piece Web
+
+## Descripción
 
 Página web HTML con interacción para proyecto de universidad en 3r curso.
 Sé diseñó y creo una página web con una mapa del famoso anime One Piece en el que el usuario puede explorar las diferentes islas que aparecen en la trama para conocer brevemente su historia y los personajes más importantes pertenecientes a ese arco.
