@@ -85,6 +85,10 @@ https://user-images.githubusercontent.com/48218009/136337840-60adf2fc-de12-4935-
 Modelado 3D de un personaje para proyecto de universidad en 2do curso.
 Se diseñó y creo un personaje inspirado en un doctor de la peste del siglo XVII. También se diseñaron y modelaron los distintos objectos usados en la escena.
 
+![Image_render](https://user-images.githubusercontent.com/48218009/136349706-1cd7d713-15a1-44cf-8a86-389768865b01.jpg)
+![censer_render](https://user-images.githubusercontent.com/48218009/136349705-8fc456c5-d300-4f5a-9448-654da83725af.jpg)
+![jewel_render](https://user-images.githubusercontent.com/48218009/136349707-0774ec14-4c80-4b6c-bbff-d71c45df6b92.jpg)
+![wings_render](https://user-images.githubusercontent.com/48218009/136349708-5443ca78-4240-42cb-9b93-87e1ea49953c.jpg)
 
 
 # 7. One Piece Web
