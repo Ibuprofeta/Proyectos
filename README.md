@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/48218009/121790219-6b19dc80-cbdd-11eb-
 ## Descripción
 
 Sitio web realizado durante una assignatura de 3ro para trabajar el CEO. 
-El sitio web fue realizado para un negocio local en un pueblo de Girona. Se ha hecho usando el portal de *wordpress.org* juntamente con la plantilla Pinnacle. Durante el proyecto se trabajó enfatizando en el CEO buscando una imagen clara y actualizada, con una estructura adequada para la legibilidad y pensando en un contenido que ayude al posicionamiento natural del web.
+El sitio web fue realizado para un negocio local en un pueblo de Tarragona. Se ha hecho usando el portal de *wordpress.org* juntamente con la plantilla Pinnacle. Durante el proyecto se trabajó enfatizando en el CEO buscando una imagen clara y actualizada, con una estructura adequada para la legibilidad y pensando en un contenido que ayude al posicionamiento natural del web.
 
 
 ![image](https://user-images.githubusercontent.com/48218009/121790366-019acd80-cbdf-11eb-8a8a-9466845bb1d5.png)
@@ -95,7 +95,7 @@ Se diseñó y creo un personaje inspirado en un doctor de la peste del siglo XVI
 ## Descripción
 
 Página web HTML con interacción para proyecto de universidad en 3r curso.
-Sé diseñó y creo una página web con una mapa del famoso anime One Piece en el que el usuario puede explorar las diferentes islas que aparecen en la trama para conocer brevemente su historia y los personajes más importantes pertenecientes a ese arco.
+Sé diseñó y creó una página web con una mapa del famoso anime One Piece en el que el usuario puede explorar las diferentes islas que aparecen en la trama para conocer brevemente su historia y los personajes más importantes pertenecientes a ese arco.
 
 Imagen Mapa Principal:
 
