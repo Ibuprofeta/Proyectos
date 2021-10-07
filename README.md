@@ -61,16 +61,15 @@ https://user-images.githubusercontent.com/48218009/121803297-17d97580-cc41-11eb-
 
 
 
-# 5. 
+# 5. Asian Scene 3D
 
+Escena 3D con animaciones para proyecto de universidad de 2do.
+Se tenia que diseñar y crear un entorno en 3D (se ha utilizado Blender) con sus animaciones. Por supuesto, también se tenían que diseñar, modelar y animar cada uno de los componentes añadidos en la escena. En mi caso, me inspiré en la temàtica asiàtica con elementos como los árboles típicos japoneses o las barcas de origen chino.
 
+Render de la Imagen
+![AsianScene_ImageRender](https://user-images.githubusercontent.com/48218009/136337831-02616676-f243-463c-8d50-24b7aaa0a28c.jpg)
 
-![Image_Render](https://user-images.githubusercontent.com/48218009/136337663-b04f1659-7b98-4f00-bcf1-afc227a85bb1.jpg)
-
-
-
-
-
-https://user-images.githubusercontent.com/48218009/136337699-f8a92f45-4c1c-4eb0-a2ac-81f8df436e5a.mp4
+Render del Video.
+https://user-images.githubusercontent.com/48218009/136337840-60adf2fc-de12-4935-bc89-36d80403b0b8.mp4
 
 
