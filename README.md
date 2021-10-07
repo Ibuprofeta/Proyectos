@@ -67,9 +67,11 @@ Escena 3D con animaciones para proyecto de universidad de 2do.
 Se tenia que diseñar y crear un entorno en 3D (se ha utilizado Blender) con sus animaciones. Por supuesto, también se tenían que diseñar, modelar y animar cada uno de los componentes añadidos en la escena. En mi caso, me inspiré en la temàtica asiàtica con elementos como los árboles típicos japoneses o las barcas de origen chino.
 
 Render de la Imagen
+
 ![AsianScene_ImageRender](https://user-images.githubusercontent.com/48218009/136337831-02616676-f243-463c-8d50-24b7aaa0a28c.jpg)
 
 Render del Video.
+
 https://user-images.githubusercontent.com/48218009/136337840-60adf2fc-de12-4935-bc89-36d80403b0b8.mp4
 
 
