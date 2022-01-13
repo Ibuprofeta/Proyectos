@@ -97,15 +97,33 @@ Se diseñó y creo un personaje inspirado en un doctor de la peste del siglo XVI
 Página web HTML con interacción para proyecto de universidad en 3r curso.
 Sé diseñó y creó una página web con una mapa del famoso anime One Piece en el que el usuario puede explorar las diferentes islas que aparecen en la trama para conocer brevemente su historia y los personajes más importantes pertenecientes a ese arco.
 
-Imagen Mapa Principal:
+Mapa Principal:
 
 ![Main_map](https://user-images.githubusercontent.com/48218009/136342051-d90f7de2-f1d9-46be-91a8-daeed19c5e07.PNG)
 
-Imagen Entrada Mapa:
+Entrada Mapa:
 
 ![map_entry](https://user-images.githubusercontent.com/48218009/136342081-48e2e397-331e-4a3c-8963-800a1b6e6f6d.PNG)
 
-Imagen Personajes:
+Entrada personajes:
 
 ![map_characters](https://user-images.githubusercontent.com/48218009/136342097-fd7fc03b-a03c-46d6-bc8b-ed2eea95037d.PNG)
 
+
+# 8. Elven Ruins
+
+## Descripción
+
+Videojuego de plataformas 3D realizado para un proyecto en el último curso de la universidad.
+
+Este proyecto consiste en un prototipo de un videojuego de plataformas 3D en primera persona utilizando Ureal Engine 4. La premisa de este proyecto fue conocer el funcionamiento de UE4 para ampliar nuestro conocimiento dentro de la industria de los videojuegos. El objetivo principal era aprender y practicar con el entorno UE4, por lo que, para ser más eficientes, utilizamos _assets_ gratuitos del Unreal Engine Marketplace. Este prototipo se llevó a cabo en cooperación con un compañero del grado universitario. Él se centró en programar e implementar algunas mecánicas del juego, tanto en jugabilidad como en las mecánicas del menú y la interfaz. Mientras tanto, yo estuve trabajando con el diseño y modelado de varios niveles, enfocado en el lado más artístico del proyecto.
+
+Escena Forest:
+
+Escena Port City:
+
+Escena Hexagonal Temple:
+
+Escena Sky:
+
+Escena Laberynth:
