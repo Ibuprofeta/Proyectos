@@ -77,7 +77,56 @@ https://user-images.githubusercontent.com/48218009/136337840-60adf2fc-de12-4935-
 
 
 
-# 6. Modelado 3D - Doctor de la Peste
+# 6. Elven Ruins
+
+## Descripción
+
+Videojuego de plataformas 3D realizado para un proyecto en el último curso de la universidad.
+
+Este proyecto consiste en un prototipo de un videojuego de plataformas 3D en primera persona utilizando Ureal Engine 4. La premisa de este proyecto fue conocer el funcionamiento de UE4 para ampliar nuestro conocimiento dentro de la industria de los videojuegos. El objetivo principal era aprender y practicar con el entorno UE4, por lo que, para ser más eficientes, utilizamos _assets_ gratuitos del Unreal Engine Marketplace. Este prototipo se llevó a cabo en cooperación con un compañero del grado universitario. Él se centró en programar e implementar algunas mecánicas del juego, tanto en jugabilidad como en las mecánicas del menú y la interfaz. Mientras tanto, yo estuve trabajando con el diseño y modelado de varios niveles, enfocado en el lado más artístico del proyecto.
+
+
+Escena Forest:
+![Forest_1](https://user-images.githubusercontent.com/48218009/150503691-43499e54-8dcc-4840-b4fe-ed1b738fa289.png)
+
+![Forest_2](https://user-images.githubusercontent.com/48218009/150503752-1cca171a-6be5-4dd2-9d7d-5f2aff6628e9.png)
+
+![Forest_3](https://user-images.githubusercontent.com/48218009/150503767-2f4cf331-12f3-42b8-9900-088536dddfbd.png)
+
+![Forest_4](https://user-images.githubusercontent.com/48218009/150503773-9db050b2-f4f4-4cd4-8842-79a50c89572c.png)
+
+Escena Port City:
+![Port_1](https://user-images.githubusercontent.com/48218009/150503891-e0ef9440-5674-48f6-b951-14be4e3000eb.png)
+
+![Port_2](https://user-images.githubusercontent.com/48218009/150503895-773e95ae-d481-4691-bd8c-c06a0f563808.png)
+
+![Port_3](https://user-images.githubusercontent.com/48218009/150503896-41f432f8-4cda-4859-aae3-81f71d4e2079.png)
+
+![Port_4](https://user-images.githubusercontent.com/48218009/150503886-16a60572-e446-44e3-aa37-b3a0c9260a17.png)
+
+Escena Hexagonal Temple:
+![Hexagon_1](https://user-images.githubusercontent.com/48218009/150504076-c95c3dee-c467-4da0-92fe-62d2afa8bbd3.png)
+
+![Hexagon_2](https://user-images.githubusercontent.com/48218009/150504080-63d53c67-c926-4a39-8f29-e818f03f55c6.png)
+
+![Hexagon_3](https://user-images.githubusercontent.com/48218009/150504083-a023788f-91b1-48b5-ad60-28b379d00ec4.png)
+
+![Hexagon_4](https://user-images.githubusercontent.com/48218009/150503953-ebf66592-16e5-4c21-9453-625d7ec59cc7.png)
+
+Escena Sky:
+![Sky_1](https://user-images.githubusercontent.com/48218009/150504048-f11fdf0d-27b0-46ae-beb6-66171a9fe23d.png)
+
+![Sky_3](https://user-images.githubusercontent.com/48218009/150504055-a93f92b8-878a-4caf-9bfb-dbd4a884d0b5.png)
+
+
+Escena Laberynth:
+![Lab_2](https://user-images.githubusercontent.com/48218009/150504180-a759830c-77c4-4907-b519-a5dd2c868790.png)
+
+![Lab_3](https://user-images.githubusercontent.com/48218009/150504184-a4a30f4f-8059-44ef-83c3-536b89f1b514.png)
+
+
+
+# 7. Modelado 3D - Doctor de la Peste
 
 ## Descripción
 
@@ -90,7 +139,7 @@ Se diseñó y creo un personaje inspirado en un doctor de la peste del siglo XVI
 ![wings_render](https://user-images.githubusercontent.com/48218009/136349708-5443ca78-4240-42cb-9b93-87e1ea49953c.jpg)
 
 
-# 7. One Piece Web
+# 8. One Piece Web
 
 ## Descripción
 
@@ -110,20 +159,4 @@ Entrada personajes:
 ![map_characters](https://user-images.githubusercontent.com/48218009/136342097-fd7fc03b-a03c-46d6-bc8b-ed2eea95037d.PNG)
 
 
-# 8. Elven Ruins
 
-## Descripción
-
-Videojuego de plataformas 3D realizado para un proyecto en el último curso de la universidad.
-
-Este proyecto consiste en un prototipo de un videojuego de plataformas 3D en primera persona utilizando Ureal Engine 4. La premisa de este proyecto fue conocer el funcionamiento de UE4 para ampliar nuestro conocimiento dentro de la industria de los videojuegos. El objetivo principal era aprender y practicar con el entorno UE4, por lo que, para ser más eficientes, utilizamos _assets_ gratuitos del Unreal Engine Marketplace. Este prototipo se llevó a cabo en cooperación con un compañero del grado universitario. Él se centró en programar e implementar algunas mecánicas del juego, tanto en jugabilidad como en las mecánicas del menú y la interfaz. Mientras tanto, yo estuve trabajando con el diseño y modelado de varios niveles, enfocado en el lado más artístico del proyecto.
-
-Escena Forest:
-
-Escena Port City:
-
-Escena Hexagonal Temple:
-
-Escena Sky:
-
-Escena Laberynth:
